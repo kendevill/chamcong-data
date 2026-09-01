@@ -9,16 +9,6 @@
       "OvertimeBase": 7000000,
       "AnnualLeaveBalance": 2.5,
       "LastLeaveAccrualDate": "2026-08-31T00:00:00+07:00"
-    },
-    {
-      "Id": "63017c37-e3a9-4510-853f-b90a6293f786",
-      "Name": "L\u00EA Duy Quang",
-      "Department": "C\u00E1 nh\u00E2n",
-      "Code": "EX01890",
-      "SalaryBase": 10100000,
-      "OvertimeBase": 8150000,
-      "AnnualLeaveBalance": 0,
-      "LastLeaveAccrualDate": "2026-09-01T00:00:00+07:00"
     }
   ],
   "Attendance": [
@@ -561,26 +551,6 @@
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
-    },
-    {
-      "Id": "ff084866-dab2-45e7-b46d-2c4525ce1cb9",
-      "EmployeeId": "63017c37-e3a9-4510-853f-b90a6293f786",
-      "Date": "2026-09-01T00:00:00+07:00",
-      "Type": 3,
-      "Shift": 0,
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
-    },
-    {
-      "Id": "86dc489a-bdbe-4bde-bfc2-99e3339db10b",
-      "EmployeeId": "63017c37-e3a9-4510-853f-b90a6293f786",
-      "Date": "2026-09-02T00:00:00",
-      "Type": 3,
-      "Shift": 0,
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
     }
   ],
   "LeaveAccruals": [],
