@@ -5,8 +5,8 @@
       "Name": "Nh\u00E2n vi\u00EAn 1",
       "Department": "C\u00E1 nh\u00E2n",
       "Code": "NV01",
-      "SalaryBase": 8500000,
-      "OvertimeBase": 7000000,
+      "SalaryBase": 0,
+      "OvertimeBase": 0,
       "AnnualLeaveBalance": 0,
       "LastLeaveAccrualDate": "2026-09-01T00:00:00+07:00"
     }
