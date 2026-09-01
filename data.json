@@ -11,16 +11,6 @@
       "LastLeaveAccrualDate": "2026-08-31T00:00:00+07:00"
     },
     {
-      "Id": "e9c97fd5-ec87-4653-a207-6276febc7f8d",
-      "Name": "Nguy\u1EC5n V\u0103n C\u1EEDu",
-      "Department": "C\u00E1 nh\u00E2n",
-      "Code": "EX02349",
-      "SalaryBase": 8300000,
-      "OvertimeBase": 7000000,
-      "AnnualLeaveBalance": 0,
-      "LastLeaveAccrualDate": "2026-09-01T00:00:00+07:00"
-    },
-    {
       "Id": "3449e0db-7ccc-4164-9cae-a1c7a6e165c6",
       "Name": "Kh\u1ED5ng V\u0103n  Khoa",
       "Department": "C\u00E1 nh\u00E2n",
@@ -593,26 +583,6 @@
       "Note": ""
     },
     {
-      "Id": "4121dd04-ef65-4e57-b88d-6566728e9c6d",
-      "EmployeeId": "e9c97fd5-ec87-4653-a207-6276febc7f8d",
-      "Date": "2026-09-01T00:00:00",
-      "Type": 3,
-      "Shift": 0,
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
-    },
-    {
-      "Id": "0793c647-14a6-46fb-af3d-99b2544564ae",
-      "EmployeeId": "e9c97fd5-ec87-4653-a207-6276febc7f8d",
-      "Date": "2026-09-02T00:00:00",
-      "Type": 3,
-      "Shift": 0,
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
-    },
-    {
       "Id": "3634d7d5-1806-4cc6-9045-6187a875d57e",
       "EmployeeId": "3449e0db-7ccc-4164-9cae-a1c7a6e165c6",
       "Date": "2026-09-01T00:00:00",
@@ -673,6 +643,7 @@
       "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
     }
   ],
+  "LeaveAccruals": [],
   "Settings": {
     "StandardDays": 26,
     "AttendanceBonus": 400000,
