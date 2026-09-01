@@ -1,1 +1,30 @@
-{}
+{
+  "Employees": [
+    {
+      "Id": "3488c4a8-9d9f-4768-a2f3-a13f74ba7245",
+      "Name": "Nh\u00E2n vi\u00EAn 1",
+      "Department": "C\u00E1 nh\u00E2n",
+      "Code": "NV01",
+      "SalaryBase": 8500000,
+      "OvertimeBase": 7000000,
+      "AnnualLeaveBalance": 0,
+      "LastLeaveAccrualDate": "2026-09-01T00:00:00+07:00"
+    }
+  ],
+  "Attendance": [],
+  "Settings": {
+    "StandardDays": 26,
+    "AttendanceBonus": 400000,
+    "InsuranceRate": 0.105,
+    "UnionRate": 0.005,
+    "NormalOvertimeRate": 1.50,
+    "SundayDayRate": 2.00,
+    "SundayNightRate": 2.80,
+    "NightExtraRate": 0.30,
+    "NightOvertimeAfter2Rate": 2.15,
+    "NightExtraHours": 6,
+    "SundayDefaultHours": 11,
+    "LeaveAccrualDay": 16,
+    "LeaveAccrualAmount": 1
+  }
+}
