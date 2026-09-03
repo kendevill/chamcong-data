@@ -2,12 +2,12 @@
   "Employees": [
     {
       "Id": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Name": "\u0110ang t\u1EA3i d\u1EEF li\u1EC7u...",
+      "Name": "Nguy\u1EC5n V\u0103n Phan",
       "Department": "C\u00E1 nh\u00E2n",
       "Code": "NV01",
       "SalaryBase": 8500000,
       "OvertimeBase": 7000000,
-      "AnnualLeaveBalance": 0,
+      "AnnualLeaveBalance": 2.5,
       "LastLeaveAccrualDate": "2026-09-03T00:00:00+07:00"
     }
   ],
