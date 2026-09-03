@@ -8,7 +8,7 @@
       "SalaryBase": 8500000,
       "OvertimeBase": 7000000,
       "AnnualLeaveBalance": 0,
-      "LastLeaveAccrualDate": null
+      "LastLeaveAccrualDate": "2026-09-03T00:00:00+07:00"
     }
   ],
   "Attendance": [],
