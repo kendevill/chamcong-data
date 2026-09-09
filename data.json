@@ -9,6 +9,16 @@
       "OvertimeBase": 7000000,
       "AnnualLeaveBalance": 2.5,
       "LastLeaveAccrualDate": "2026-09-03T00:00:00+07:00"
+    },
+    {
+      "Id": "2bca8213-62f4-4bc9-bcb4-8ab370bdd7a7",
+      "Name": "L\u00CA DUY QUANG",
+      "Department": "C\u00E1 nh\u00E2n",
+      "Code": "NV1850",
+      "SalaryBase": 10500000,
+      "OvertimeBase": 7400000,
+      "AnnualLeaveBalance": 1,
+      "LastLeaveAccrualDate": "2026-09-09T00:00:00+07:00"
     }
   ],
   "Attendance": [
