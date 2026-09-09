@@ -9,6 +9,16 @@
       "OvertimeBase": 7000000,
       "AnnualLeaveBalance": 2.5,
       "LastLeaveAccrualDate": "2026-09-03T00:00:00+07:00"
+    },
+    {
+      "Id": "16f712ae-377a-4659-83a5-340ad19fea54",
+      "Name": "LEDUYQUANG",
+      "Department": "C\u00E1 nh\u00E2n",
+      "Code": "NV1850",
+      "SalaryBase": 10500000,
+      "OvertimeBase": 7400000,
+      "AnnualLeaveBalance": 1,
+      "LastLeaveAccrualDate": "2026-09-09T00:00:00+07:00"
     }
   ],
   "Attendance": [
