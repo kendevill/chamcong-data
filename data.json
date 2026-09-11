@@ -701,6 +701,26 @@
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
+    },
+    {
+      "Id": "e493f878-c197-4475-88be-c1f9e9b836fe",
+      "EmployeeId": "16f712ae-377a-4659-83a5-340ad19fea54",
+      "Date": "2026-09-10T00:00:00",
+      "Type": 0,
+      "Shift": 1,
+      "OvertimeHours": 0,
+      "PaidDayUnits": 1,
+      "Note": ""
+    },
+    {
+      "Id": "bfdd29bf-82d6-42b8-90ab-195563b5184c",
+      "EmployeeId": "16f712ae-377a-4659-83a5-340ad19fea54",
+      "Date": "2026-09-10T00:00:00",
+      "Type": 2,
+      "Shift": 1,
+      "OvertimeHours": 3,
+      "PaidDayUnits": 1,
+      "Note": ""
     }
   ],
   "LeaveAccruals": [],
