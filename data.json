@@ -19,16 +19,6 @@
       "OvertimeBase": 7400000,
       "AnnualLeaveBalance": 1,
       "LastLeaveAccrualDate": "2026-09-09T00:00:00+07:00"
-    },
-    {
-      "Id": "90ec6d44-579d-4565-b98b-82f58304a8fc",
-      "Name": "KH\u1ED4NG VAN KHOA",
-      "Department": "C\u00E1 nh\u00E2n",
-      "Code": "NV00263",
-      "SalaryBase": 11150000,
-      "OvertimeBase": 8500000,
-      "AnnualLeaveBalance": 0,
-      "LastLeaveAccrualDate": "2026-09-09T00:00:00+07:00"
     }
   ],
   "Attendance": [
