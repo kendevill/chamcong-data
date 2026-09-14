@@ -213,16 +213,6 @@
       "Note": ""
     },
     {
-      "Id": "941cf436-2553-498c-9cc1-59bb873dc8f7",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-09-15T00:00:00",
-      "Type": 0,
-      "Shift": 0,
-      "OvertimeHours": 3,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
       "Id": "7adca114-446d-4e3a-87a8-8fe4937ab205",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
       "Date": "2026-09-16T00:00:00",
