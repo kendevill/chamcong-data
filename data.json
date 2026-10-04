@@ -508,6 +508,16 @@
       "Date": "2026-10-21T00:00:00",
       "Type": 0,
       "Shift": 1,
+      "OvertimeHours": 3,
+      "PaidDayUnits": 1,
+      "Note": ""
+    },
+    {
+      "Id": "b0a531be-9fd7-4765-8194-2cc27336a1c5",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-10-22T00:00:00",
+      "Type": 0,
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
