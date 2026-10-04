@@ -528,7 +528,7 @@
       "Date": "2026-10-23T00:00:00",
       "Type": 0,
       "Shift": 1,
-      "OvertimeHours": 0,
+      "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
     }
