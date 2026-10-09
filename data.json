@@ -2,13 +2,13 @@
   "Employees": [
     {
       "Id": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Name": "Nguy\u1EC5n V\u0103n Phan",
-      "Department": "C\u00E1 nh\u00E2n",
+      "Name": "Nguyễn Văn Phan",
+      "Department": "Cá nhân",
       "Code": "EX02202",
       "SalaryBase": 8700000,
       "OvertimeBase": 7200000,
       "AnnualLeaveBalance": 3.5,
-      "LastLeaveAccrualDate": "2026-09-16T00:00:00"
+      "LastLeaveAccrualDate": "2026-09-15T17:00:00.000Z"
     }
   ],
   "Attendance": [
@@ -20,7 +20,7 @@
       "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
+      "Note": "Nghỉ lễ - không trừ phép"
     },
     {
       "Id": "bd76a4f1-7174-4111-9bb1-438172f0c28c",
@@ -30,7 +30,7 @@
       "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
+      "Note": "Nghỉ lễ - không trừ phép"
     },
     {
       "Id": "e4664e54-81ca-461d-bced-dff7ca46f51e",
@@ -310,7 +310,7 @@
       "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 ph\u00E9p 1 ng\u00E0y"
+      "Note": "Nghỉ phép 1 ngày"
     },
     {
       "Id": "4a087fc2-b702-4757-8d82-07b9d8917a2c",
@@ -375,10 +375,10 @@
     {
       "Id": "84459972-d1c2-4bb9-a6ec-4a0f27bb5f7f",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-10-09T05:00:00Z",
+      "Date": "2026-10-09T05:00:00.000Z",
       "Type": 0,
-      "Shift": 0,
-      "OvertimeHours": 3,
+      "Shift": "Day",
+      "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
     },
@@ -619,7 +619,7 @@
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
       "Date": "2026-09-16T00:00:00",
       "Amount": 1,
-      "Note": "T\u1EF1 c\u1ED9ng ph\u00E9p th\u00E1ng 09/2026"
+      "Note": "Tự cộng phép tháng 09/2026"
     }
   ],
   "Settings": {
