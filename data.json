@@ -901,6 +901,26 @@
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
+    },
+    {
+      "Id": "293b4667-0bce-40b8-9e25-2f6d0bfaca21",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-11-20T05:00:00.000Z",
+      "Type": 0,
+      "Shift": "Night",
+      "OvertimeHours": 0,
+      "PaidDayUnits": 1,
+      "Note": ""
+    },
+    {
+      "Id": "0cb4b060-33c2-480a-9bff-249e5d9deb61",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-11-21T05:00:00.000Z",
+      "Type": 0,
+      "Shift": "Night",
+      "OvertimeHours": 0,
+      "PaidDayUnits": 1,
+      "Note": ""
     }
   ],
   "LeaveAccruals": [
