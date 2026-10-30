@@ -921,6 +921,16 @@
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
+    },
+    {
+      "Id": "e9f627af-4f50-41cb-9725-2484e48a4b6b",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-11-23T05:00:00.000Z",
+      "Type": 3,
+      "Shift": "Night",
+      "OvertimeHours": 0,
+      "PaidDayUnits": 1,
+      "Note": "Nghỉ lễ - không trừ phép"
     }
   ],
   "LeaveAccruals": [
