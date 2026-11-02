@@ -2,13 +2,13 @@
   "Employees": [
     {
       "Id": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Name": "Nguyễn Văn Phan",
-      "Department": "Cá nhân",
+      "Name": "Nguy\u1EC5n V\u0103n Phan",
+      "Department": "C\u00E1 nh\u00E2n",
       "Code": "EX02202",
       "SalaryBase": 8700000,
       "OvertimeBase": 7200000,
-      "AnnualLeaveBalance": 3.5,
-      "LastLeaveAccrualDate": "2026-10-15T17:00:00.000Z"
+      "AnnualLeaveBalance": 4.5,
+      "LastLeaveAccrualDate": "2026-10-16T00:00:00"
     }
   ],
   "Attendance": [
@@ -20,7 +20,7 @@
       "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Nghỉ lễ - không trừ phép"
+      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
     },
     {
       "Id": "bd76a4f1-7174-4111-9bb1-438172f0c28c",
@@ -30,7 +30,7 @@
       "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Nghỉ lễ - không trừ phép"
+      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
     },
     {
       "Id": "e4664e54-81ca-461d-bced-dff7ca46f51e",
@@ -310,7 +310,7 @@
       "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Nghỉ phép 1 ngày"
+      "Note": "Ngh\u1EC9 ph\u00E9p 1 ng\u00E0y"
     },
     {
       "Id": "4a087fc2-b702-4757-8d82-07b9d8917a2c",
@@ -615,19 +615,9 @@
     {
       "Id": "02de54a0-cee5-4092-9f8e-878ac877dbb4",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-02T05:00:00.000Z",
+      "Date": "2026-11-02T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "41f866d8-810c-48d4-85b4-80598ff0ddea",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-02T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -635,19 +625,9 @@
     {
       "Id": "1d78f099-4a9c-4a25-8ff4-5716b2111843",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-03T05:00:00.000Z",
+      "Date": "2026-11-03T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "a97b6bec-0f15-4242-b04e-85fd2d179c4a",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-03T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -655,19 +635,9 @@
     {
       "Id": "01541139-bdca-4100-885f-c2eb0fa27699",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-04T05:00:00.000Z",
+      "Date": "2026-11-04T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "2a934869-e5a9-40e6-b7e0-4a6e3453c994",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-04T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -675,19 +645,9 @@
     {
       "Id": "9c915ca7-125e-4306-b2cd-19c8966937c8",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-05T05:00:00.000Z",
+      "Date": "2026-11-05T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "44bec9f8-9a91-4e15-962a-b4059644a2bf",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-05T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -695,19 +655,9 @@
     {
       "Id": "20355e3e-5802-4e28-89f9-f2b3381b08b0",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-06T05:00:00.000Z",
+      "Date": "2026-11-06T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "f32d626d-c8db-418e-accc-1bf2ed5a14e8",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-06T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -715,19 +665,9 @@
     {
       "Id": "e66882c5-cbb9-463a-b1d3-30cbc318007c",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-07T05:00:00.000Z",
+      "Date": "2026-11-07T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "504add5d-5471-4215-b3ae-8b84db29c2ea",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-07T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -735,19 +675,9 @@
     {
       "Id": "cf80bd83-bcb0-4169-b3b5-06d1cecbe2d5",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-09T05:00:00.000Z",
+      "Date": "2026-11-09T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "790ed8b0-c5d4-4580-a99c-32f1670f0d20",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-09T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -755,19 +685,9 @@
     {
       "Id": "8faaa34e-3c2a-4069-8e24-9aff6bf8d7bf",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-10T05:00:00.000Z",
+      "Date": "2026-11-10T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "ecafe7ce-f0bf-4997-89bf-bdba4a1f5ca6",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-10T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -775,19 +695,9 @@
     {
       "Id": "643a122a-527b-422a-bc27-5585e7f326a2",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-11T05:00:00.000Z",
+      "Date": "2026-11-11T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "46d59a38-c371-4159-b6c9-d202edf627f9",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-11T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -795,19 +705,9 @@
     {
       "Id": "01bcdc3f-5023-4ea3-be8e-3ad10166d977",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-12T05:00:00.000Z",
+      "Date": "2026-11-12T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "135a2440-4adf-47ad-a385-426a56cf03ab",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-12T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -815,19 +715,9 @@
     {
       "Id": "5aed2c44-f1eb-4e8d-8460-1b8efb562517",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-13T05:00:00.000Z",
+      "Date": "2026-11-13T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "cd5f9a53-5bfb-48aa-853d-06d72cdb086f",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-13T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -835,19 +725,9 @@
     {
       "Id": "ced0e7c0-ce34-414a-b9f2-ca3b09d628ff",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-14T05:00:00.000Z",
+      "Date": "2026-11-14T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "c88e847f-6f83-4500-acb2-737d4a366bd1",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-14T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -855,9 +735,9 @@
     {
       "Id": "3b0767b9-1c4e-4b9c-abbb-b3a6e43c5121",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-15T05:00:00.000Z",
+      "Date": "2026-11-15T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 11,
       "PaidDayUnits": 1,
       "Note": ""
@@ -865,9 +745,9 @@
     {
       "Id": "67ed7ca6-59a4-4796-ad6d-f9023aa86433",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-16T05:00:00.000Z",
+      "Date": "2026-11-16T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -875,9 +755,9 @@
     {
       "Id": "30113765-290a-49d0-b730-7080ca525736",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-17T05:00:00.000Z",
+      "Date": "2026-11-17T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -885,9 +765,9 @@
     {
       "Id": "94507867-8c2b-4719-83bb-ece6ff4af7c4",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-18T05:00:00.000Z",
+      "Date": "2026-11-18T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -895,9 +775,9 @@
     {
       "Id": "c5cddb82-1cde-43bc-816f-fb7ed7f30d57",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-19T05:00:00.000Z",
+      "Date": "2026-11-19T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -905,9 +785,9 @@
     {
       "Id": "293b4667-0bce-40b8-9e25-2f6d0bfaca21",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-20T05:00:00.000Z",
+      "Date": "2026-11-20T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -915,9 +795,9 @@
     {
       "Id": "0cb4b060-33c2-480a-9bff-249e5d9deb61",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-21T05:00:00.000Z",
+      "Date": "2026-11-21T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -925,29 +805,29 @@
     {
       "Id": "e9f627af-4f50-41cb-9725-2484e48a4b6b",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-23T05:00:00.000Z",
+      "Date": "2026-11-23T05:00:00Z",
       "Type": 3,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Nghỉ lễ - không trừ phép"
+      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
     },
     {
       "Id": "23b24c60-9c7f-4dac-afdd-6a7270c6ff7b",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-24T05:00:00.000Z",
+      "Date": "2026-11-24T05:00:00Z",
       "Type": 3,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
-      "Note": "Nghỉ lễ - không trừ phép"
+      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
     },
     {
       "Id": "2acd95a5-83bd-44d4-840e-c18b8902fb05",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-25T05:00:00.000Z",
+      "Date": "2026-11-25T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -955,9 +835,9 @@
     {
       "Id": "273ebd40-18b5-4eaa-817f-21a169906c8d",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-26T05:00:00.000Z",
+      "Date": "2026-11-26T05:00:00Z",
       "Type": 2,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -965,19 +845,9 @@
     {
       "Id": "1bbdf4aa-7892-455a-88b1-86b49f6cfdf6",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-27T05:00:00.000Z",
+      "Date": "2026-11-27T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "5337b86a-c450-4739-bf20-eb48623e7e40",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-27T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -985,19 +855,9 @@
     {
       "Id": "57113277-9bbc-4d87-8051-f5d580077b7b",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-28T05:00:00.000Z",
+      "Date": "2026-11-28T05:00:00Z",
       "Type": 0,
-      "Shift": "Night",
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": ""
-    },
-    {
-      "Id": "1c1fa0cd-e5a5-4eb9-babc-20c6cdffe464",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-28T05:00:00.000Z",
-      "Type": 2,
-      "Shift": "Night",
+      "Shift": 1,
       "OvertimeHours": 3,
       "PaidDayUnits": 1,
       "Note": ""
@@ -1005,9 +865,9 @@
     {
       "Id": "58d87b83-21e5-4268-90a7-166783135a72",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-30T05:00:00.000Z",
+      "Date": "2026-11-30T05:00:00Z",
       "Type": 0,
-      "Shift": "Day",
+      "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
@@ -1019,14 +879,14 @@
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
       "Date": "2026-09-16T00:00:00",
       "Amount": 1,
-      "Note": "Tự cộng phép tháng 09/2026"
+      "Note": "T\u1EF1 c\u1ED9ng ph\u00E9p th\u00E1ng 09/2026"
     },
     {
       "Id": "6e955441-ad41-4be3-967c-1334c7ae7d69",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
       "Date": "2026-10-16T00:00:00",
       "Amount": 1,
-      "Note": "Tự cộng phép tháng 10/2026"
+      "Note": "T\u1EF1 c\u1ED9ng ph\u00E9p th\u00E1ng 10/2026"
     }
   ],
   "Settings": {
