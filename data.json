@@ -7,8 +7,8 @@
       "Code": "EX02202",
       "SalaryBase": 8700000,
       "OvertimeBase": 7200000,
-      "AnnualLeaveBalance": 1.5,
-      "LastLeaveAccrualDate": "2026-10-16T00:00:00"
+      "AnnualLeaveBalance": 2.5,
+      "LastLeaveAccrualDate": "2026-11-16T00:00:00"
     }
   ],
   "Attendance": [
@@ -887,6 +887,13 @@
       "Date": "2026-10-16T00:00:00",
       "Amount": 1,
       "Note": "T\u1EF1 c\u1ED9ng ph\u00E9p th\u00E1ng 10/2026"
+    },
+    {
+      "Id": "b9579d89-32a9-48c4-9627-6f6e59cb0b1a",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-11-16T00:00:00",
+      "Amount": 1,
+      "Note": "T\u1EF1 c\u1ED9ng ph\u00E9p th\u00E1ng 11/2026"
     }
   ],
   "Settings": {
