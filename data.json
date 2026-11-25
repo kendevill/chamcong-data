@@ -1108,6 +1108,16 @@
       "Date": "2026-12-24T00:00:00",
       "Type": 0,
       "Shift": 1,
+      "OvertimeHours": 3,
+      "PaidDayUnits": 1,
+      "Note": ""
+    },
+    {
+      "Id": "54507467-4c3c-47b1-b8c8-e4188f8e7ca6",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-12-25T00:00:00",
+      "Type": 0,
+      "Shift": 1,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": ""
