@@ -803,16 +803,6 @@
       "Note": ""
     },
     {
-      "Id": "23b24c60-9c7f-4dac-afdd-6a7270c6ff7b",
-      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
-      "Date": "2026-11-24T05:00:00Z",
-      "Type": 3,
-      "Shift": 1,
-      "OvertimeHours": 0,
-      "PaidDayUnits": 1,
-      "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
-    },
-    {
       "Id": "2acd95a5-83bd-44d4-840e-c18b8902fb05",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
       "Date": "2026-11-25T05:00:00Z",
