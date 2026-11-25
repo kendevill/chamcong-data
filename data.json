@@ -1071,6 +1071,16 @@
       "OvertimeHours": 11,
       "PaidDayUnits": 1,
       "Note": ""
+    },
+    {
+      "Id": "5bb29b73-6ec5-458b-9388-531646ac505c",
+      "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
+      "Date": "2026-12-21T00:00:00",
+      "Type": 0,
+      "Shift": 1,
+      "OvertimeHours": 3,
+      "PaidDayUnits": 1,
+      "Note": ""
     }
   ],
   "LeaveAccruals": [
