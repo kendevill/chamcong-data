@@ -856,8 +856,8 @@
       "Id": "483d14a2-a315-473b-afa4-793833c689eb",
       "EmployeeId": "1b6e1b44-f795-489a-b36a-aaca5d9397d3",
       "Date": "2026-11-23T00:00:00",
-      "Type": 3,
-      "Shift": 1,
+      "Type": 0,
+      "Shift": 0,
       "OvertimeHours": 0,
       "PaidDayUnits": 1,
       "Note": "Ngh\u1EC9 l\u1EC5 - kh\u00F4ng tr\u1EEB ph\u00E9p"
